@@ -1,0 +1,35 @@
+#This is a generated, Weekly Schedule for the witty Pi
+ 
+BEGIN 2016-12-20 16:40:00
+END 2026-12-20 16:00:00
+ 
+ON  M1 
+OFF  H1 M19 
+ON  M1 
+OFF  H1 M19 
+ON  M1 
+OFF  H21 M19 
+ON  M1 
+OFF  H1 M19 
+ON  M1 
+OFF  H1 M19 
+ON  M1 
+OFF  H19 M49 
+ON  M1 
+OFF  H2 M19 
+ON  M1 
+OFF  H2 M19 
+ON  M1 
+OFF  H19 M19 
+ON  M1 
+OFF  H2 M19 
+ON  M1 
+OFF  H2 M19 
+ON  M1 
+OFF  H19 M19 
+ON  M1 
+OFF  H2 M19 
+ON  M1 
+OFF  H2 M19 
+ON  M1 
+OFF  D3 H20 M49 
